@@ -30,39 +30,28 @@ This project is a machine learning model to classify handwritten digits using th
 
 进入项目目录：
 
-bash
-复制
-编辑
+
 cd handwritten-digit-recognition
 创建并激活虚拟环境：
 
-bash
-复制
-编辑
+
 python -m venv venv
 venv\Scripts\activate  # Windows
 source venv/bin/activate  # Linux/macOS
 安装项目依赖：
 
-bash
-复制
-编辑
+
 pip install -r requirements.txt
 运行项目
 运行 main.py 文件：
 
-bash
-复制
-编辑
+
 python main.py
 训练完成后，模型将会输出训练和验证的准确率，并且会保存训练好的模型。
 
 使用说明
 训练模型：在项目根目录下运行 main.py 文件，模型将开始训练。
 
-bash
-复制
-编辑
 python main.py
 模型预测：训练完成后，你可以使用训练好的模型来进行手写数字的预测。
 
@@ -83,8 +72,7 @@ Fork 本仓库。
 此项目采用 MIT 许可证，详细信息请参阅 LICENSE 文件。
 
 csharp
-复制
-编辑
+
 
 ### 4. 提交 README 文件
 
